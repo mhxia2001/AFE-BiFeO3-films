@@ -1,2 +1,2 @@
 # AFE-BiFeO3-films
-This repository contains all data for the figures in the work 'Antiferroelectricity in BiFeO3 Thin Films'.
+This repository provides the complete dataset supporting the figures presented in the paper “Antiferroelectricity in BiFeO₃ Thin Films.” The data include calculated energies, polarizations, and order parameters associated with the structures discussed in the manuscript.
