@@ -10,6 +10,6 @@ o u--local mode amplitude
 o w--octahedral rotation angles (rads)
 ### P-E_loop-data
 filename: a_b_c_pz.dat
-o a--temperature
+○ a--temperature
 o b--beta
 c--number of film layer
