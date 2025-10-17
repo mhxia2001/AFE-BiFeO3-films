@@ -1,4 +1,4 @@
-# AFE-BiFeO3-films
+# AFE-BiFeO3-films   https://doi.org/10.1103/fqpx-dpbn
 This repository provides the dataset supporting the figures presented in the paper *“Antiferroelectricity in BiFeO₃ Thin Films”*. The data include calculated energies, polarizations, and order parameters associated with the structures discussed in the manuscript and supplementary material.
 
 ## Dataset for the paper *“Antiferroelectricity in BiFeO₃ Thin Films”*
