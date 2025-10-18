@@ -1,7 +1,7 @@
 # AFE-BiFeO3-films   
 This repository contains the data supporting our paper *“Antiferroelectricity in BiFeO₃ Thin Films”* (DOI: https://doi.org/10.1103/fqpx-dpbn). The dataset includes calculated order parameters and energies obtained under various conditions using the effective Hamiltonian method. These data were used to generate the figures presented in the main manuscript and the supplemental material.
 
-### Energy
+### Energy [Fig. 1(c)]
 The *R3c* and *Pnma* phases correspond to the *R*-like and *O*-like structures in BiFeO3 film, respectively, as described in the paper. 
 - first column -- film thickness (number of unit cells)
 - second column -- energy (Hartree)
