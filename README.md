@@ -31,4 +31,4 @@ filename: Pnma_heating_x_y.dat
 The *R3c*, *Pnma*, and *P4mm* phases correspond to the *R*-like, *O*-like, and *T*-like structures in BiFeO3 film, respectively.  
 - p -- polarization (μC/cm²)  
 - u -- local mode amplitude  
-- w -- octahedral rotation angles (rads)
+- w -- octahedral rotation angles (rads.)
